@@ -19,6 +19,9 @@ pnpm-lock.yaml
 .venv
 .actrc
 CLAUDE.local.md
+# Claude Code per-user local settings (can hold "Don't ask again" permissions and secrets)
+.claude/settings.local.json
+**/.claude/settings.local.json
 
 apps/vscode/webview-ui/src/**/*.js
 apps/vscode/webview-ui/src/**/*.js.map
